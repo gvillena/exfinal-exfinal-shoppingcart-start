@@ -1,0 +1,53 @@
+[
+  {
+    "Codigo": "C0001",
+    "Titulo": "Philip 1d Trainers",
+    "Precio": 55.0,
+    "ImgSmall": [
+      "../../img/calzado/c01/small/c-01-01-small.jpg",
+      "../../img/calzado/c01/small/c-01-02-small.jpg",
+      "../../img/calzado/c01/small/c-01-03-small.jpg",
+      "../../img/calzado/c01/small/c-01-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/calzado/c01/normal/c-01-01-normal.jpg",
+      "../../img/calzado/c01/normal/c-01-02-normal.jpg",
+      "../../img/calzado/c01/normal/c-01-03-normal.jpg",
+      "../../img/calzado/c01/normal/c-01-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "C0002",
+    "Titulo": "Deck 4d Mixed",
+    "Precio": 80.0,
+    "ImgSmall": [
+      "../../img/calzado/c02/small/c-02-01-small.jpg",
+      "../../img/calzado/c02/small/c-02-02-small.jpg",
+      "../../img/calzado/c02/small/c-02-03-small.jpg",
+      "../../img/calzado/c02/small/c-02-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/calzado/c02/normal/c-02-01-normal.jpg",
+      "../../img/calzado/c02/normal/c-02-02-normal.jpg",
+      "../../img/calzado/c02/normal/c-02-03-normal.jpg",
+      "../../img/calzado/c02/normal/c-02-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "C0003",
+    "Titulo": "Parson 8n Mid Heel",
+    "Precio": 155.0,
+    "ImgSmall": [
+      "../../img/calzado/c03/small/c-03-01-small.jpg",
+      "../../img/calzado/c03/small/c-03-02-small.jpg",
+      "../../img/calzado/c03/small/c-03-03-small.jpg",
+      "../../img/calzado/c03/small/c-03-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/calzado/c03/normal/c-03-01-normal.jpg",
+      "../../img/calzado/c03/normal/c-03-02-normal.jpg",
+      "../../img/calzado/c03/normal/c-03-03-normal.jpg",
+      "../../img/calzado/c03/normal/c-03-04-normal.jpg"
+    ]
+  }
+]

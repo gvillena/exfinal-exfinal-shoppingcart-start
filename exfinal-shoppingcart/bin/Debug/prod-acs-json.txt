@@ -1,0 +1,24 @@
+[
+  {
+    "Codigo": "A0001",
+    "Titulo": "Strap Watch 1791",
+    "Precio": 175.0,
+    "ImgSmall": [
+      "../../img/accesorios/a01/small/a-01-01-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/accesorios/a01/normal/a-01-01-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "A0002",
+    "Titulo": "Classic Logo Red Cap",
+    "Precio": 25.0,
+    "ImgSmall": [
+      "../../img/accesorios/a02/small/a-02-01-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/accesorios/a02/normal/a-02-01-normal.jpg"
+    ]
+  }
+]

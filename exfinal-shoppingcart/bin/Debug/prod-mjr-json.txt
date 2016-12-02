@@ -1,0 +1,49 @@
+[
+  {
+    "Codigo": "M0001",
+    "Titulo": "Nicola Blouse",
+    "Precio": 120.0,
+    "ImgSmall": [
+      "../../img/mujeres/m01/small/m-01-01-small.jpg",
+      "../../img/mujeres/m01/small/m-01-02-small.jpg",
+      "../../img/mujeres/m01/small/m-01-03-small.jpg",
+      "../../img/mujeres/m01/small/m-01-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/mujeres/m01/normal/m-01-01-normal.jpg",
+      "../../img/mujeres/m01/normal/m-01-02-normal.jpg",
+      "../../img/mujeres/m01/normal/m-01-03-normal.jpg",
+      "../../img/mujeres/m01/normal/m-01-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "M0002",
+    "Titulo": "Jezma Blazer",
+    "Precio": 190.0,
+    "ImgSmall": [
+      "../../img/mujeres/m02/small/m-02-01-small.jpg",
+      "../../img/mujeres/m02/small/m-02-02-small.jpg",
+      "../../img/mujeres/m02/small/m-02-03-small.jpg",
+      "../../img/mujeres/m02/small/m-02-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/mujeres/m02/normal/m-02-01-normal.jpg",
+      "../../img/mujeres/m02/normal/m-02-02-normal.jpg",
+      "../../img/mujeres/m02/normal/m-02-03-normal.jpg",
+      "../../img/mujeres/m02/normal/m-02-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "M0003",
+    "Titulo": "Neige Dress",
+    "Precio": 125.0,
+    "ImgSmall": [
+      "../../img/mujeres/m03/small/m-03-01-small.jpg",
+      "../../img/mujeres/m03/small/m-03-02-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/mujeres/m03/normal/m-03-01-normal.jpg",
+      "../../img/mujeres/m03/normal/m-03-02-normal.jpg"
+    ]
+  }
+]

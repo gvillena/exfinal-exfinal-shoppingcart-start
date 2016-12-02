@@ -1,0 +1,53 @@
+[
+  {
+    "Codigo": "H0001",
+    "Titulo": "Eng Poplin Shirt",
+    "Precio": 85.0,
+    "ImgSmall": [
+      "../../img/hombres/h01/small/h-01-01-small.jpg",
+      "../../img/hombres/h01/small/h-01-02-small.jpg",
+      "../../img/hombres/h01/small/h-01-03-small.jpg",
+      "../../img/hombres/h01/small/h-01-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/hombres/h01/normal/h-01-01-normal.jpg",
+      "../../img/hombres/h01/normal/h-01-02-normal.jpg",
+      "../../img/hombres/h01/normal/h-01-03-normal.jpg",
+      "../../img/hombres/h01/normal/h-01-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "H0002",
+    "Titulo": "Plaited Sub Cashmere Blend Jumper",
+    "Precio": 110.0,
+    "ImgSmall": [
+      "../../img/hombres/h02/small/h-02-01-small.jpg",
+      "../../img/hombres/h02/small/h-02-02-small.jpg",
+      "../../img/hombres/h02/small/h-02-03-small.jpg",
+      "../../img/hombres/h02/small/h-02-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/hombres/h02/normal/h-02-01-normal.jpg",
+      "../../img/hombres/h02/normal/h-02-02-normal.jpg",
+      "../../img/hombres/h02/normal/h-02-03-normal.jpg",
+      "../../img/hombres/h02/normal/h-02-04-normal.jpg"
+    ]
+  },
+  {
+    "Codigo": "H0003",
+    "Titulo": "Cotton Linen V-Neck Jumper",
+    "Precio": 95.0,
+    "ImgSmall": [
+      "../../img/hombres/h03/small/h-03-01-small.jpg",
+      "../../img/hombres/h03/small/h-03-02-small.jpg",
+      "../../img/hombres/h03/small/h-03-03-small.jpg",
+      "../../img/hombres/h03/small/h-03-04-small.jpg"
+    ],
+    "ImgNormal": [
+      "../../img/hombres/h03/normal/h-03-01-normal.jpg",
+      "../../img/hombres/h03/normal/h-03-02-normal.jpg",
+      "../../img/hombres/h03/normal/h-03-03-normal.jpg",
+      "../../img/hombres/h03/normal/h-03-04-normal.jpg"
+    ]
+  }
+]
